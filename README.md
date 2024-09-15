@@ -30,32 +30,22 @@ Open index.html Open index.html in your preferred web browser to view and intera
 Click on any of the drum buttons to play the corresponding sound.
 Press the following keys on your keyboard to trigger specific drum sounds:
 W: Kick
+
 A: Snare
+
 S: Hi-Hat
+
 D: Tom
+
 J: Crash
+
 K: Ride
+
 L: Open Hi-Hat
+
 # Technologies Used
-HTML: Markup language for structuring the content.
-CSS: Styling the drum kit.
-JavaScript: Handling interactions and playing sounds.
+**HTML:** Markup language for structuring the content.
 
+**CSS:** Styling the drum kit.
 
-If you’d like to contribute to this project, please follow these steps:
-
-Fork the Repository: Click on the "Fork" button at the top right of this page.
-Create a New Branch:
-bash
-Copy code
-git checkout -b feature/YourFeature
-Commit Your Changes:
-bash
-Copy code
-git commit -am 'Add new feature'
-Push to the Branch:
-bash
-Copy code
-git push origin feature
-Open a Pull Request: Go to the original repository and click on "New Pull Request."
-
+**JavaScript:** Handling interactions and playing sounds.
