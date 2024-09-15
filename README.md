@@ -1,4 +1,4 @@
-# Drumkit Project
+# Drumkit Project using Visual Studio Code
 
 A fun and interactive drum kit application built using HTML, CSS, and JavaScript. This project lets users play drum sounds by clicking on buttons or pressing specific keys on the keyboard.
 
