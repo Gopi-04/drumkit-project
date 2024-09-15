@@ -20,7 +20,6 @@ git clone https://github.com/Gopi-04/drumkit-project/edit/main/README.md
 **Navigate into the Project Directory:**
 
 ```bash
-Copy code
 cd drumkit-project
 ```
 Open index.html in your preferred web browser to view and interact with the Drum Kit.
