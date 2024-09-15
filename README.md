@@ -26,7 +26,9 @@ Open index.html in your preferred web browser to view and interact with the Drum
 
 # How to Use
 Click on any of the drum buttons to play the corresponding sound.
-Press the following keys on your keyboard to trigger specific drum sounds:
+
+**Press the following keys on your keyboard to trigger specific drum sounds:**
+
 W: Kick
 
 A: Snare
