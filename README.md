@@ -7,9 +7,6 @@ Interactive drum buttons that play sounds when clicked.
 Keyboard support for triggering drum sounds.
 Responsive design suitable for various devices.
 
-# Getting Started
-To set up the Drum Kit project on your local machine, follow these instructions:
-
 # Prerequisites
 A web browser (e.g., Chrome, Firefox)
 A code editor (e.g., Visual Studio Code)
