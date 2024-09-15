@@ -58,5 +58,4 @@ bash
 Copy code
 git push origin feature
 Open a Pull Request: Go to the original repository and click on "New Pull Request."
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
