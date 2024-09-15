@@ -13,18 +13,21 @@ To set up the Drum Kit project on your local machine, follow these instructions:
 # Prerequisites
 A web browser (e.g., Chrome, Firefox)
 A code editor (e.g., Visual Studio Code)
-Installation
-Clone the Repository
 
-bash
+# Installation
+**Clone the Repository**
+
+```bash
 Copy code
 git clone [https://github.com/gopi-04/drumkit-project.git](https://github.com/Gopi-04/drumkit-project/edit/main/README.md)
-Navigate into the Project Directory
+```
+**Navigate into the Project Directory:**
 
-bash
+```bash
 Copy code
 cd drumkit-project
-Open index.html Open index.html in your preferred web browser to view and interact with the Drum Kit.
+```
+Open index.html in your preferred web browser to view and interact with the Drum Kit.
 
 # How to Use
 Click on any of the drum buttons to play the corresponding sound.
