@@ -15,7 +15,7 @@ A code editor (e.g., Visual Studio Code)
 **Clone the Repository**
 
 ```bash
-git clone [https://github.com/gopi-04/drumkit-project.git](https://github.com/Gopi-04/drumkit-project/edit/main/README.md)
+git clone https://github.com/Gopi-04/drumkit-project/edit/main/README.md
 ```
 **Navigate into the Project Directory:**
 
