@@ -4,7 +4,9 @@ A fun and interactive drum kit application built using HTML, CSS, and JavaScript
 
 # Features
 Interactive drum buttons that play sounds when clicked.
+
 Keyboard support for triggering drum sounds.
+
 Responsive design suitable for various devices.
 
 # Prerequisites
