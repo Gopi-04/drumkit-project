@@ -10,9 +10,9 @@ A fun and interactive drum kit application built using HTML, CSS, and JavaScript
 - Responsive design suitable for various devices.
 
 # Prerequisites
-A web browser (e.g., Chrome, Firefox)
+A web browser (e.g. Chrome, Firefox)
 
-A code editor (e.g., Visual Studio Code)
+A code editor (e.g. Visual Studio Code)
 
 # Installation
 **Clone the Repository**
