@@ -25,7 +25,7 @@ git clone https://github.com/Gopi-04/drumkit-project/edit/main/README.md
 ```bash
 cd drumkit-project
 ```
-Open index.html in your preferred web browser to view and interact with the Drum Kit.
+Open `index.html` in your preferred web browser to view and interact with the Drum Kit.
 
 # How to Use
 Click on any of the drum buttons to play the corresponding sound.
