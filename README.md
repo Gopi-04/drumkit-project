@@ -3,11 +3,11 @@
 A fun and interactive drum kit application built using HTML, CSS, and JavaScript. This project lets users play drum sounds by clicking on buttons or pressing specific keys on the keyboard.
 
 # Features
-Interactive drum buttons that play sounds when clicked.
+- Interactive drum buttons that play sounds when clicked.
 
-Keyboard support for triggering drum sounds.
+- Keyboard support for triggering drum sounds.
 
-Responsive design suitable for various devices.
+- Responsive design suitable for various devices.
 
 # Prerequisites
 A web browser (e.g., Chrome, Firefox)
