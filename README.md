@@ -51,3 +51,7 @@ L: Open Hi-Hat
 **CSS:** Styling the drum kit.
 
 **JavaScript:** Handling interactions and playing sounds.
+
+# Contact
+
+For any questions or feedback, please contact me at [pvgopi04@gmail.com](mailto:pvgopi04@gmail.com).
